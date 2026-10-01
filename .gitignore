@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+data/
+dataset/
+datasets/
+
+# Python generated files
+*.log
+
+# Streamlit
+.streamlit/secrets.toml

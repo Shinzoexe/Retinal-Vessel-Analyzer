@@ -1,0 +1,13 @@
+
+Dataset: DRIVE + HRF
+Train Images: 59
+Validation Images: 12
+Test Images: 14
+
+Model: U-Net (ResNet34 Encoder)
+
+Epochs: 20
+Learning Rate: 1e-4
+
+Final Validation Dice: 0.6510
+Final Test Dice: 0.6820
